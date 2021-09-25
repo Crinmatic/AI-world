@@ -1,0 +1,10 @@
+[user]
+	name = KingAlagbe
+	email = oluseunalagbee@gmail.com
+[gui]
+	recentrepo = C:/Users/King alagbe/Videos/nlp/Alpha X development
+	recentrepo = C:/Users/King alagbe/Videos/nlp/test_alphaX
+[sendpack]
+	sideband = false
+[http]
+	postBuffer = 524288000
